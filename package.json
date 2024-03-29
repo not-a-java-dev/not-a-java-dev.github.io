@@ -1,0 +1,14 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
